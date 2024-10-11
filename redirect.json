@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "priority": 1,
+        "action": { "type": "redirect", "redirect": { "url": "https://samuel-peter-chowdhury.github.io/pokemon-showdown-alt/search.js" } },
+        "condition": { "urlFilter": "||play.pokemonshowdown.com/js/search.js*", "resourceTypes": ["script"] }
+      }
+]
