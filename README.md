@@ -1,2 +1,2 @@
 # PokemonShowdownFilter
-This is an enhanced version of my original filter
+This fork uses files from my repo
